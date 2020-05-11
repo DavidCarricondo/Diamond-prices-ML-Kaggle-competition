@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 *.csv
 __pycache__
+.vscode
+diamonds_ml_version3.ipynb
